@@ -1,7 +1,7 @@
 #pragma once
 
-#include "../../Mist_common/include/common/UtilityMacros.h"
-#include "../../include/utility/Hashing.h"
+#include "../Mist_common/include/UtilityMacros.h"
+#include "Hashing.h"
 #include <cstdint>
 
 MIST_NAMESPACE
